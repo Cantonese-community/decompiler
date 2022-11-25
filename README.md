@@ -1,2 +1,2 @@
 # decompiler
-ranslate your code to cantonese!
+Translate your code to cantonese!
